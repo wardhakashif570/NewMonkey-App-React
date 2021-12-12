@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kentucky tornadoes: Biden reaches out to affected US states",
+            "description": "He promises the government will do all it can to help, as the death toll is expected to pass 100.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59623970",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ABFA/production/_122062044_mediaitem122060103.jpg",
+            "publishedAt": "2021-12-11T22:37:21.917293Z",
+            "content": "Media caption, Meteorologist Noah Bergren filmed the path of the tornadoes in the town of Mayfield and spoke to the BBC about what he saw\r\nUS President Joe Biden has said the government will do every… [+3784 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rosie Kay: Dancers write open letter to choreographer after gender row",
+            "description": "Choreographer Rosie Kay says she was forced out of her company over her views on sex and gender.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-59584638",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B902/production/_122026374_rkrosiekaybyianwallmanrosiekay1087.jpg",
+            "publishedAt": "2021-12-11T22:07:27.5129165Z",
+            "content": "By Katie RazzallCulture editor\r\nImage source, Ian Wallman\r\nImage caption, Rosie Kay choreographed the film Sunshine on Leith and the Commonwealth Games Handover Ceremony in 2018\r\nDancers who accused … [+9009 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mexico truck crash: Crackdown on people smugglers launched",
+            "description": "More than 50 people. thought to be migrants from Central America, were killed in a truck crash.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-59612811",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EE1B/production/_122055906_mediaitem122056210.jpg",
+            "publishedAt": "2021-12-11T22:07:23.6545011Z",
+            "content": "Image caption, The injured are still recovering in hospitals around the capital of Chiapas state\r\nMexico has announced a working group to combat people-smuggling in the wake of the truck crash that r… [+4162 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alan Shepard: Bezos space company sends first US astronaut's daughter to space",
+            "description": "Laura Shepard Churchley's father, Alan, became the first American in space in 1961.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59623264",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5DDA/production/_122062042_gettyimages-1237169902.jpg",
+            "publishedAt": "2021-12-11T22:07:20.1241299Z",
+            "content": "Image source, Getty Images\r\nImage caption, Laura Shepard Churchley's (left) father became the first US astronaut in space in 1961\r\nThe daughter of the first US astronaut, Alan Shepard, has blasted in… [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Albert Benaiges: Ex-Barcelona academy chief faces sex abuse claims",
+            "description": "The allegations against Albert Benaiges date back to his time as a teacher in the 1980s and 90s.",
+            "url": "http://www.bbc.co.uk/news/world-europe-59623258",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/840E/production/_122060833_gettyimages-925642848.jpg",
+            "publishedAt": "2021-12-11T18:37:20.802419Z",
+            "content": "Image source, Getty Images\r\nImage caption, Albert Benaiges ran Barcelona's famed La Masia academy for almost two decades\r\nThe former head of FC Barcelona's youth academy has been accused of historic … [+2066 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Drone footage shows collapsed Amazon warehouse",
+            "description": "Tornadoes have ripped through several states killing more than 50 people, authorities say.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59621245",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/123B3/production/_122057647_p0b9fqx6.jpg",
+            "publishedAt": "2021-12-11T15:07:17.2853328Z",
+            "content": "Workers were trapped inside an Amazon warehouse in Illinois after its roof collapsed in deadly storms.\r\nTornadoes have wreaked havoc across several states killing more than 50 people. The death toll … [+117 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Omicron study suggests major wave in January",
+            "description": "More stringent restrictions may be needed to prevent coronavirus from overwhelming hospitals, scientists say.",
+            "url": "http://www.bbc.co.uk/news/uk-59621029",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F0F/production/_122057758_gettyimages-1237143534.jpg",
+            "publishedAt": "2021-12-11T12:22:22.6482809Z",
+            "content": "By James GallagherHealth and science correspondent\r\nImage source, Getty Images\r\nThe UK is facing a substantial wave of Omicron infections in January without further restrictions, according to scienti… [+3260 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ros Atkins on… Compulsory Covid vaccinations",
+            "description": "Ros Atkins examines the ethical arguments surrounding vaccine mandates.",
+            "url": "http://www.bbc.co.uk/news/health-59609452",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C2E/production/_122049672_p0b979pj.jpg",
+            "publishedAt": "2021-12-11T07:52:18.6784917Z",
+            "content": "Austria is introducing a vaccine mandate from February and other nations around the world are also looking at their options. \r\nThis complex situation has many viewpoints, from intrusions on personal … [+156 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia faces consequences if Ukraine invaded - Truss",
+            "description": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+            "url": "http://www.bbc.co.uk/news/uk-59616743",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F32F/production/_122055226_gettyimages-1232461255.jpg",
+            "publishedAt": "2021-12-11T01:52:20.6868884Z",
+            "content": "By James LandaleDiplomatic correspondent\r\nImage source, Getty Images\r\nImage caption, Russian troops on a training exercises in Crimea this year - Moscow annexed the peninsula from Ukraine in 2014\r\nFo… [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ghislaine Maxwell trial: Prosecutors wrap up after 10 days",
+            "description": "Prosecutors have said Ms Maxwell ran \"a pyramid scheme of abuse\" with paedophile Jeffrey Epstein.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59616024",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2021-12-10T21:22:20.3958278Z",
+            "content": "Prosecutors in Ghislaine Maxwell's sex trafficking trial have rested their case following two weeks of testimony.\r\nAnnie Farmer, the last of four alleged victims to testify, recounted on Friday the \"… [+2092 chars]"
+        }
+    ]
+}
